@@ -25,8 +25,8 @@ Um orquestrador de agentes autônomos baseado em **LangChain/LangGraph** e **Str
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/jpwf/Gerador_de_artigos
+   cd Gerador_de_artigos
    ```
 
 2. **Crie e ative o seu ambiente virtual (`.venv`):**
