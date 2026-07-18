@@ -1,6 +1,6 @@
 # 📊 Gerador de Artigos
 
-Um orquestrador de agentes autônomos baseado em **LangChain/LangGraph** e **Streamlit** que realiza buscas online profundas, consolida informações estruturadas e renderiza artigos científicos ou relatórios técnicos formatados sob demanda, utilizando os modelos da família **Gemini (Google AI Studio)**.
+Um orquestrador de agentes autônomos baseado em **LangChain/LangGraph** e **Streamlit** que realiza buscas online para validação, consolida informações estruturadas e renderiza artigos científicos formatados sob demanda, utilizando os modelos da família **Gemini (Google AI Studio)**.
 
 ## 🚀 Funcionalidades
 
